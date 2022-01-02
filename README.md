@@ -11,4 +11,6 @@
 
 ##HOW TO DOWNLOAD AND INSTALL
 - First open termux
-``` $apt-get install git```
+```shell script 
+$apt-get install git
+```
